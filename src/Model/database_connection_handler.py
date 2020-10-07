@@ -15,7 +15,7 @@ class DBConnectionHandler(object):
     def __init__(self, logger: Logger, uri: dict):
         self.logger = logger
         path = pathlib.Path(".env.yaml").parent.absolute()
-        self.my_config =  YamlReader(self.logger).parse_file(str(path)+"/src/Model/.env.yaml")
+        self.my_config = uri if uri is not None else YamlReader(self.logger).parse_file(str(path)+"/src/Model/.env.yaml")
         self.collection = self.init_collection(self.my_config)
 
     """A function that sets up the data base endpoit"""
