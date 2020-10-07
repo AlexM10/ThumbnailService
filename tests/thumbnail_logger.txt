@@ -1,0 +1,113 @@
+Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:19:41.089057Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:19:41.556607Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:19:41.566019Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:19:42.237060Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:20:12.232727Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:20:12.513811Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:20:12.523582Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:20:12.777478Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:20:41.897489Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:20:42.203974Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:20:42.213076Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:20:42.447513Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:21:05.434573Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:21:05.733608Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:21:05.743244Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:21:05.961187Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:27:01.378578Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:27:02.690839Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:27:02.700141Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:27:02.932420Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:28:10.116577Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:28:10.503681Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:28:10.513818Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:28:10.751940Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:28:22.541339Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:28:23.087585Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:28:23.097996Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:28:23.314847Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:29:04.388345Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:29:04.868956Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:29:04.879201Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:29:05.258988Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:31:08.709321Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:31:09.332125Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:31:09.341674Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:31:09.748553Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:32:22.039392Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:32:22.423265Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:32:22.433151Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:32:22.666869Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:32:26.919425Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:32:27.238605Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:32:27.248291Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:32:27.474159Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:34:18.661890Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:34:19.002412Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:34:19.012048Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:34:19.228478Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:35:14.604476Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:35:15.123319Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:35:15.132439Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:35:15.551129Failed to parse config.
+[Errno 2] No such file or directory: '/Model/.env.yaml'
+ 2020-10-06 20:44:40.894920Failed to find a data_base record 1235922560971118006.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:44:41.490651Failed to put to data_base record 1235922560971118006.
+'NoneType' object has no attribute 'insert_one'
+ 2020-10-06 20:44:41.499906Failed to find a data_base record -1235922561054806472.
+'NoneType' object has no attribute 'find_one'
+ 2020-10-06 20:44:42.181047
