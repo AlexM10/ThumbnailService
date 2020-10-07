@@ -15,8 +15,6 @@ class DBConnectionHandler(object):
     def __init__(self, logger: Logger, uri: dict):
         self.logger = logger
         self.my_config = uri if uri is not None else YamlReader(self.logger).parse_file(".env.yaml")
-        if self.my_config is not None:
-            print(self.my_config['mongo'])
         self.collection = self.init_collection(self.my_config)
 
     """A function that sets up the data base endpoit"""
